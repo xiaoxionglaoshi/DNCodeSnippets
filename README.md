@@ -1,4 +1,5 @@
 # DNCodeSnippets
+里面包括OC和Swift常用代码块
 
 下载文件复制到 `~/Library/Developer/Xcode/UserData/CodeSnippets`
 
