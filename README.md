@@ -1,2 +1,6 @@
 # DNCodeSnippets
-常用的代码代码片段
+
+下载文件复制到 `~/Library/Developer/Xcode/UserData/CodeSnippets`
+
+![image](https://github.com/xiaoxionglaoshi/DNCodeSnippets/blob/master/111.png?raw=true)
+
